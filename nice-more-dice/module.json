@@ -14,8 +14,8 @@
   ],
   "scripts": ["scripts/nice-more-dice.json"],
   "url": "https://github.com/LyncsCwtsh/fvtt-module-Nice-more-Dice",
-  "manifest": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-nice-more-dice/main/nice-more-dice/module.json",
-  "download": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-nice-more-dice/main/module.zip",
+  "manifest": "https://raw.githubusercontent.com/TeilzeitTodesengel/fvtt-module-nice-more-dice/main/nice-more-dice/module.json",
+  "download": "https://raw.githubusercontent.com/TeilzeitTodesengel/fvtt-module-nice-more-dice/main/module.zip",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "11",
   "compatibility": {
